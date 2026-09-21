@@ -1,0 +1,7 @@
+Downloaded from Azure Blob after portal edit
+File: bhc-client-note.txt  Size: 87 bytes  Downloaded: 09/20/2026 21:52:08
+SHA256: 31AD564A16B1E20351F60509FD878E80353EB98BE992924B34B68BAB37938D63
+
+--- contents ---
+Client onboarding file - initial upload from IT.
+Edited in Azure portal - Lab 1 step 8.
